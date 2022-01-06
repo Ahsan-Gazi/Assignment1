@@ -18,17 +18,17 @@ h1 {
   display: flex;
   margin-bottom: 150px;
 }
-.half-width {
+.withCheck {
   width: 50%;
   margin-top: 10%;
   padding-left: 2%;
 }
 
-.half-width img {
+.withCheck img {
   width: 60%;
 }
 
-.link-button {
+.Connect-button {
   text-decoration: none;
   background-image: linear-gradient(orange,green);
   color: white;
@@ -77,6 +77,10 @@ footer {
 footer p {
   text-align: center;
   color: white;
+}
+
+#year2022{
+color: goldenrod;
 }
 
 
