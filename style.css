@@ -1,0 +1,125 @@
+body {
+  font-family: "Poppins", sans-serif;
+
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+h1 {
+  font-size: 50px;
+  font-family: "Lora", serif;
+}
+
+.grey-color {
+  color: goldenrod;
+}
+
+.container {
+  display: flex;
+  margin-bottom: 150px;
+}
+.half-width {
+  width: 50%;
+  margin-top: 10%;
+  padding-left: 2%;
+}
+
+.half-width img {
+  width: 60%;
+}
+
+.link-button {
+  text-decoration: none;
+  background-image: linear-gradient(orange,green);
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+.div-border {
+  border-left: solid 4px green;
+  padding-left: 2%;
+}
+
+#header {
+  text-align: center;
+}
+.mission-text {
+  width: 40%;
+  margin-left: 4%;
+  margin-right: 4%;
+  padding-left: 15px;
+  
+  border-radius: 20px;
+}
+
+.mission-text img {
+  width: 50%;
+  height: 50%;
+}
+
+#mission {
+  background-color:gold;
+}
+
+#vision {
+  background-color: goldenrod;
+}
+
+#goal {
+  background-color: ghostwhite;
+}
+
+footer {
+  background-color: black;
+  padding: 10px 10px;
+}
+
+footer p {
+  text-align: center;
+  color: white;
+}
+
+
+/* 
+div.mission {
+  vertical-align: top;
+  display: inline-block;
+  text-align: center;
+  width: 120px;
+} */
+/* .img1 {
+  width: 100px;
+  height: 100px;
+  background-color: grey;
+} */
+/* .MissionText {
+  display: block;
+} */
+/* .mission .MissionText{
+  position: absolute;
+  z-index: 999;
+  margin: 0 auto;
+  left: 0;
+  right: 0;
+  top: 40%; /* Adjust this value to move the positioned div up and down 
+  text-align: center;
+  width: 60%; 
+} */
+/* .mission {
+  height: 200px;
+  position: relative;
+  width: 200px;
+}
+
+.img1 {
+  height: 100%;
+  width: 100%;
+}
+.MissionText {
+  background-color: cyan;
+  position: absolute;
+  top: 100px;
+  width: 100%;
+  z-index: 999;
+} */
+
